@@ -19,16 +19,13 @@
             "id": "fa9d6ee29efc8b56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f8250fa51c320406",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ENUMERATION/Port 8080.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -37,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "EXPLOTATION/SSRF Vulnerability.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,8 +45,13 @@
             "id": "4cf65ed6bea3d5cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "EXPLOTATION/SSRF Vulnerability.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "EXPLOTATION/SSRF Vulnerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "EXPLOTATION/SSRF Vulnerability.md"
               }
             }
           },
@@ -192,8 +194,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "235dc1d1c74bee3a",
+  "active": "4cf65ed6bea3d5cf",
   "lastOpenFiles": [
+    "ENUMERATION/Hydra.md",
+    "ENUMERATION/Port 11025.md",
+    "EXPLOTATION/SSRF Vulnerability.md",
+    "EXPLOTATION",
+    "Images/Hydra-20240828150803712.webp",
+    "Images/Hydra-20240828150515276.webp",
+    "Images/Port 11025-20240828145101923.webp",
+    "ENUMERATION/DIG - DNS Enumeration.md",
+    "ENUMERATION/Port 8080.md",
+    "ENUMERATION/Ports and services.md",
+    "Images/DIG - DNS Enumeration-20240827135525856.webp",
+    "Images/Ports and services-20240827134657848.webp",
+    "Images/Port 8080-20240827133937871.webp",
+    "Images/Ports and services-20240827133055199.webp",
+    "Images/Ports and services-20240827132703747.webp",
+    "index.md",
+    "ENUMERATION",
     "webpage-html-export-1.7.3.zip",
     "Images/index-20240826150210275.webp",
     "Images",
@@ -203,18 +222,7 @@
     "docs/docs/lib/rss.xml",
     "docs/docs/lib/metadata.json",
     "docs/docs/lib/styles/theme.css",
-    "docs/docs/lib/styles/snippets.css",
-    "docs/docs/lib/styles/generated-styles.css",
-    "docs/docs/lib/styles/obsidian-styles.css",
     "docs/docs/lib/media/Screenshot from 2024-08-20 11-48-59.png",
-    "docs/docs/lib/media/Screenshot from 2024-08-20 11-46-09.png",
-    "docs/docs/lib/media/Screenshot from 2024-08-19 20-00-04.png",
-    "docs/docs/lib/media/Screenshot from 2024-08-19 19-27-32.png",
-    "docs/docs/lib/media/Screenshot from 2024-08-18 13-10-03.png",
-    "docs/docs/lib/media/Screenshot from 2024-08-18 13-04-37.png",
-    "docs/docs/lib/media/Screenshot from 2024-08-15 20-43-32.png",
-    "docs/docs/lib/media/Screenshot from 2024-08-15 20-18-54.png",
-    "docs/docs/lib/media/Screenshot from 2024-08-13 21-31-00.png",
     "PRIVILEGE ESCALATION/Delegation.md",
     "LATERAL MOVEMENT/Bloodhound.md",
     "LATERAL MOVEMENT/AS-REP Roasting.md",
@@ -224,7 +232,6 @@
     "EXPLOITATION/Getting a shell.md",
     "EXPLOITATION/Cracking the hash.md",
     "APPENDIX/Neo4j.md",
-    "index.md",
     "APPENDIX/CrackMapExec.md",
     "README.md"
   ]
