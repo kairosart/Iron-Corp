@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENUMERATION/Port 8080.md",
+                "file": "ENUMERATION/DIG - DNS Enumeration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOTATION/SSRF Vulnerability.md",
+                "file": "PRIVILEGE ESCALATION/Root's flag.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOTATION/SSRF Vulnerability.md",
+                "file": "EXPLOITATION/Reverse shell.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,8 +58,13 @@
             "id": "956be8d16f73caa3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "EXPLOITATION/SSRF Vulnerability.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -129,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXPLOTATION/SSRF Vulnerability.md",
+                "file": "EXPLOITATION/Reverse shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOTATION/SSRF Vulnerability.md"
+                "file": "EXPLOITATION/Reverse shell.md"
               }
             }
           },
@@ -196,33 +201,35 @@
   },
   "active": "4cf65ed6bea3d5cf",
   "lastOpenFiles": [
+    "EXPLOITATION/SSRF Vulnerability.md",
+    "PRIVILEGE ESCALATION/Root's flag.md",
+    "EXPLOITATION/Reverse shell.md",
+    "PRIVILEGE ESCALATION",
+    "Images/Reverse shell-20240830150521430.webp",
+    "Images/Reverse shell-20240830150307571.webp",
+    "Images/Reverse shell-20240830145157847.webp",
+    "Images/SSRF Vulnerability-20240830135736534.webp",
     "ENUMERATION/Hydra.md",
     "ENUMERATION/Port 11025.md",
-    "EXPLOTATION/SSRF Vulnerability.md",
-    "EXPLOTATION",
-    "Images/Hydra-20240828150803712.webp",
-    "Images/Hydra-20240828150515276.webp",
-    "Images/Port 11025-20240828145101923.webp",
     "ENUMERATION/DIG - DNS Enumeration.md",
     "ENUMERATION/Port 8080.md",
     "ENUMERATION/Ports and services.md",
-    "Images/DIG - DNS Enumeration-20240827135525856.webp",
-    "Images/Ports and services-20240827134657848.webp",
-    "Images/Port 8080-20240827133937871.webp",
-    "Images/Ports and services-20240827133055199.webp",
-    "Images/Ports and services-20240827132703747.webp",
+    "Images/SSRF Vulnerability-20240829134333513.webp",
+    "Images/SSRF Vulnerability-20240829134027720.webp",
+    "Images/SSRF Vulnerability-20240829133401094.webp",
+    "Images/SSRF Vulnerability-20240829132452480.webp",
+    "EXPLOITATION",
+    "Images/Hydra-20240828150803712.webp",
+    "Images/Hydra-20240828150515276.webp",
     "index.md",
     "ENUMERATION",
     "webpage-html-export-1.7.3.zip",
-    "Images/index-20240826150210275.webp",
     "Images",
     "docs/docs/index.html",
     "docs/docs/PRIVILEGE ESCALATION/Delegation.html",
     "docs/docs/PRIVILEGE ESCALATION",
     "docs/docs/lib/rss.xml",
     "docs/docs/lib/metadata.json",
-    "docs/docs/lib/styles/theme.css",
-    "docs/docs/lib/media/Screenshot from 2024-08-20 11-48-59.png",
     "PRIVILEGE ESCALATION/Delegation.md",
     "LATERAL MOVEMENT/Bloodhound.md",
     "LATERAL MOVEMENT/AS-REP Roasting.md",
