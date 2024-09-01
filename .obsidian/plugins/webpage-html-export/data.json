@@ -43,8 +43,10 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/media/sf_obsidian/Reset/docs",
+  "exportPath": "/media/sf_obsidian/Iron Corp/docs",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }

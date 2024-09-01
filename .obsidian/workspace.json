@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Reverse shell.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/SSRF Vulnerability.md",
+                "file": "EXPLOITATION/Reverse shell.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXPLOITATION/Reverse shell.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Reverse shell.md"
+                "file": "index.md"
               }
             }
           },
@@ -201,35 +201,36 @@
   },
   "active": "4cf65ed6bea3d5cf",
   "lastOpenFiles": [
+    "docs/lib/metadata.json",
+    "docs/lib/fonts/MathJax_Vector-Bold.woff",
+    "docs/lib/fonts/MathJax_Vector-Regular.woff",
+    "docs/lib/fonts/MathJax_Typewriter-Regular.woff",
+    "docs/lib/fonts/MathJax_Script-Regular.woff",
+    "docs/lib/fonts/MathJax_SansSerif-Italic.woff",
+    "docs/lib/fonts/MathJax_SansSerif-Bold.woff",
+    "docs/lib/fonts/MathJax_SansSerif-Regular.woff",
+    "docs/lib/fonts/MathJax_Fraktur-Bold.woff",
+    "docs/lib/fonts/MathJax_Fraktur-Regular.woff",
+    "docs/lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/Images/SSRF Vulnerability-20240830135736534.webp",
+    "docs/Images/SSRF Vulnerability-20240829134333513.webp",
+    "docs/Images/SSRF Vulnerability-20240829134027720.webp",
+    "docs/Images/SSRF Vulnerability-20240829133401094.webp",
+    "docs/Images/SSRF Vulnerability-20240829132452480.webp",
+    "docs/Images/Reverse shell-20240830150521430.webp",
+    "docs/Images/Reverse shell-20240830150307571.webp",
+    "docs/Images/Reverse shell-20240830145157847.webp",
+    "docs/Images/Ports and services-20240827134657848.webp",
     "EXPLOITATION/SSRF Vulnerability.md",
-    "PRIVILEGE ESCALATION/Root's flag.md",
     "EXPLOITATION/Reverse shell.md",
-    "PRIVILEGE ESCALATION",
-    "Images/Reverse shell-20240830150521430.webp",
-    "Images/Reverse shell-20240830150307571.webp",
-    "Images/Reverse shell-20240830145157847.webp",
-    "Images/SSRF Vulnerability-20240830135736534.webp",
-    "ENUMERATION/Hydra.md",
-    "ENUMERATION/Port 11025.md",
-    "ENUMERATION/DIG - DNS Enumeration.md",
-    "ENUMERATION/Port 8080.md",
     "ENUMERATION/Ports and services.md",
-    "Images/SSRF Vulnerability-20240829134333513.webp",
-    "Images/SSRF Vulnerability-20240829134027720.webp",
-    "Images/SSRF Vulnerability-20240829133401094.webp",
-    "Images/SSRF Vulnerability-20240829132452480.webp",
-    "EXPLOITATION",
-    "Images/Hydra-20240828150803712.webp",
-    "Images/Hydra-20240828150515276.webp",
+    "ENUMERATION/Port 11025.md",
+    "ENUMERATION/Port 8080.md",
+    "ENUMERATION/Hydra.md",
+    "ENUMERATION/DIG - DNS Enumeration.md",
     "index.md",
-    "ENUMERATION",
-    "webpage-html-export-1.7.3.zip",
-    "Images",
-    "docs/docs/index.html",
-    "docs/docs/PRIVILEGE ESCALATION/Delegation.html",
-    "docs/docs/PRIVILEGE ESCALATION",
-    "docs/docs/lib/rss.xml",
-    "docs/docs/lib/metadata.json",
+    "PRIVILEGE ESCALATION/Root's flag.md",
     "PRIVILEGE ESCALATION/Delegation.md",
     "LATERAL MOVEMENT/Bloodhound.md",
     "LATERAL MOVEMENT/AS-REP Roasting.md",

@@ -13,3 +13,15 @@ The asset in scope is: **ironcorp.me**
 Happy hacking!
 
 
+---
+
+**Steps**
+[[Ports and services]]
+[[Port 8080]]
+[[DIG - DNS Enumeration]]
+[[Port 11025]]
+[[Hydra]]
+[[SSRF Vulnerability]]
+[[Reverse shell]]
+[[Root's flag]]
+
