@@ -4,7 +4,7 @@
   "inlineAssets": true,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
-  "titleProperty": "title",
+  "titleProperty": "Iron Corp",
   "customHeadContentPath": "",
   "faviconPath": "",
   "documentWidth": "40em",
@@ -46,7 +46,10 @@
   "exportPath": "/media/sf_obsidian/Iron Corp/docs",
   "filesToExport": [
     [
-      "all"
+      "ENUMERATION",
+      "EXPLOITATION",
+      "PRIVILEGE ESCALATION",
+      "index.md"
     ]
   ]
 }
